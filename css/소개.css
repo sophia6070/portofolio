@@ -1,0 +1,37 @@
+body {
+  background-image: linear-gradient(to right, #eb9da1, #6da1c8, #5eb7bc);
+  width: 1400px;
+  margin: 0 auto;
+}
+
+.content ul {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 420px;
+}
+
+.content h1 {
+  font-size: 64px;
+  color: #3e547d;
+}
+
+.content p {
+  font-size: 24px;
+  color: #3e547d;
+  line-height: 2;
+}
+
+.bottom ul {
+  display: flex;
+  justify-content: space-between;
+  font-size: 24px;
+  font-weight: 600;
+  color: #3e547d;
+  margin-top: 240px;
+}
+
+.bottom ul li p {
+  font-weight: 400;
+  padding-top: 15px;
+  color: #d9d9d9;
+}
