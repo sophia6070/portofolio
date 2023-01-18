@@ -1,0 +1,47 @@
+.contents {
+  width: 1200px;
+  height: 500px;
+  margin: 0 auto;
+  margin-top: 400px;
+}
+
+.contents h1 {
+  font-size: 70px;
+  color: #3e547d;
+  padding: 60px 0;
+  text-align: center;
+  position: relative;
+  margin-bottom: 30px;
+}
+
+.contents .first {
+  position: absolute;
+  top: 33%;
+  left: 40%;
+}
+
+.contents .second {
+  position: absolute;
+  top: 39%;
+  left: 57%;
+}
+
+.contents ul {
+  display: flex;
+  justify-content: center;
+}
+
+.text_box {
+  padding: 40px 130px;
+}
+
+.text_box h3 {
+  font-size: 45px;
+  color: #535353;
+  margin-bottom: 80px;
+  cursor: pointer;
+}
+
+.text_box h3:hover {
+  text-decoration: underline;
+}
