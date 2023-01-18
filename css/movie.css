@@ -61,5 +61,7 @@ h1 {
 }
 
 button {
-  padding: 6px 18px;
+  padding: 10px 30px;
+  border: none;
+  cursor: pointer;
 }
