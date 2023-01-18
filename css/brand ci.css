@@ -1,0 +1,19 @@
+.content {
+  position: relative;
+}
+
+.content .first {
+  position: absolute;
+  top: 0;
+  left: 10%;
+}
+
+.content .second {
+  position: absolute;
+  top: 11%;
+  left: 80%;
+}
+
+.content h3 {
+  margin-top: 150px;
+}

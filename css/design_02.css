@@ -1,0 +1,15 @@
+.content {
+  position: relative;
+}
+
+.content .first {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.content .second {
+  position: absolute;
+  top: 12%;
+  left: 90%;
+}
